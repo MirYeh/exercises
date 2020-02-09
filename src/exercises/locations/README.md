@@ -16,3 +16,7 @@ If a user is looking for electronics, return `Store`, etc.
     * Handle cases for items we don't support or `null` values in `Locations::getItemLocation`
     * Add support for another item type (for medicines return Pharmacy)
     * Adjust the implementation if needed to support different casing ("books", "Books" and "BOOKS" should all return "Library")
+
+## Solutions
+
+See solutions in [solutions-locations](https://github.com/MirYeh/exercises/tree/solutions-locations/src/exercises/locations) branch.
